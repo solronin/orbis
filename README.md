@@ -49,6 +49,4 @@ To use Orbis, you will need an MCP-compatible client (like Claude for Desktop or
 **Expected LLM Response (Powered by Orbis):** "Based on Orbis's analysis, the Drift DAI lending pool currently has a moderate risk score. Key factors contributing to this score include [mention specific risk metrics from Orbis, e.g., utilization rate is at 85%, volatility is medium based on recent APY fluctuations, protocol audit score is high].  While the APY is currently [mention APY], potential risks to consider are [mention specific risks identified by Orbis, e.g., high utilization could lead to lower liquidity during peak demand]."
 
 **For Developers:**
-
-For detailed technical documentation, API references, and instructions on setting up and extending the Orbis MCP server, please refer to the [Full Orbis MCP Server Documentation](solronin.gitbook.io/orbis)
-
+For detailed technical documentation, API references, and instructions on setting up and extending the Orbis MCP server, please refer to the [Full Orbis MCP Server Documentation](https://solronin.gitbook.io/orbis)
