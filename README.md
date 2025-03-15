@@ -50,5 +50,5 @@ To use Orbis, you will need an MCP-compatible client (like Claude for Desktop or
 
 **For Developers:**
 
-For detailed technical documentation, API references, and instructions on setting up and extending the Orbis MCP server, please refer to the full Orbis MCP Server Documentation - solronin.gitbook.io/orbis
+For detailed technical documentation, API references, and instructions on setting up and extending the Orbis MCP server, please refer to the [Full Orbis MCP Server Documentation](solronin.gitbook.io/orbis)
 
